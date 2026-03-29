@@ -1,2 +1,2 @@
 # ShowCase
-![Project Screenshot](circuit diagram of the system.png)
+![Project Screenshot](demo.png)
